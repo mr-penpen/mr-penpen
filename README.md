@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=mr.고라파덕&fontSize=90&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=이형주&fontAlign=80&fontAlignY=40&color=gradient)
 
 ## My Skills ##
 ![MY SKILL](https://skillicons.dev/icons?i=js,html,css,js,jquery,dotnet,java)
