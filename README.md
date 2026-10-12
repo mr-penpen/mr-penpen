@@ -2,7 +2,7 @@
 
 ## skills
 
-| skill | level |
+[![MY SKILL](https://skillicons.dev/icons?i=js,html,css,js,asp,.net,java)]
 
 <!--
 **mr-penpen/mr-penpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
