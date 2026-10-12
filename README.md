@@ -1,4 +1,8 @@
-## Hi there 👋
+# 이형주
+
+## skills
+
+| skill | level |
 
 <!--
 **mr-penpen/mr-penpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
