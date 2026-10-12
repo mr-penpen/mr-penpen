@@ -2,7 +2,9 @@
 
 ## skills
 
-[![MY SKILL](https://skillicons.dev/icons?i=js,html,css,js,asp,.net,java)]
+![MY SKILL](https://skillicons.dev/icons?i=js,html,css,js,asp,.net,java)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=이형주&fontSize=90)
 
 <!--
 **mr-penpen/mr-penpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
