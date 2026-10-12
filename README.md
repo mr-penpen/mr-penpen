@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=이형주&fontSize=90)
 
 ## My Skills ##
-![MY SKILL](https://skillicons.dev/icons?i=js,html,css,js,asp,.net,java)
+![MY SKILL](https://skillicons.dev/icons?i=js,html,css,js,jquery,dotnet,java)
 
 
 
